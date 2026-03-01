@@ -37,5 +37,5 @@ And here is the state-by-state breakdown showing how Haryana spiked, while other
 
 ![State Impact](images/state_impact.png)
 
-## 🧠 What I Learned
+## What I Learned
 Honestly, the biggest takeaway wasn't just how to write a `.groupby()` in Pandas. It was seeing how important it is to clean data before trying to plot it (those random spaces in the CSV column headers were driving me crazy). Also, taking raw rows of numbers and turning them into a chart that clearly tells a story is super satisfying.
